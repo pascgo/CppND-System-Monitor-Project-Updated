@@ -1,0 +1,27 @@
+/*
+
+SW Release Note   
+
+Date : 16 Feb 2023 
+Evolutions are according suggestions made by the second examen ( see picture on this folder ) 
+	file process.cpp : Pict_011_process_cpp_01_AgeOfProcess.png
+
+Evolutions are according suggestions made by the first examen ( see picture on this folder ) 
+
+	file linux_parser.cpp
+		suggestion 1 : Pict_001_linux_parser_cpp_01_RemoveDebugStatement.png
+		suggestion 6 : Pict_002_linux_parser_cpp_06_CloseFilestream.png
+		suggestion 7 : Pict_003_linux_parser_cpp_07_RemoveToDoStatement.png
+		obligatoire 8 : Pict_004_linux_parser_cpp_08_ReturnStatement.png
+	file system.cpp
+		suggestion 1 : Pict_005_system_cpp_01_Namespace.png
+		suggestion 3 : Pict_006_system_cpp_03_EmplaceBack.png
+		suggestion 5 : Pict_007_system_cpp_05_RemoveToDo.png
+	file process.cpp
+		suggestion 1 : Pict_008_process_cpp_01_AppendStatement.png
+	file linux_parser.h
+		suggestion 1 : Pict_009_linux_parser_h_01_hardcoded.png
+	file ncourses_display.h
+		suggestion 1 : Pict_010_ncourses_display_h_01_numberprocess.png
+        
+        
